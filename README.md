@@ -62,9 +62,9 @@ It combines data handling, machine learning, and a Streamlit interface to make t
 
 ### 📱 Portfolio App
 
-**Flutter · Dart**
+**HTML · CSS**
 
-A personal portfolio project built with **Flutter**, exploring cross-platform application development and modern UI design.
+A personal portfolio project showcasing my skills, projects, experience, and education through a clean, responsive, and modern design.
 
 **Repository:**
 👉 [github.com/Omveer-07/portfolio](https://github.com/Omveer-07/portfolio)
