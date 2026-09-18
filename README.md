@@ -111,8 +111,6 @@ A timetable scheduling project exploring application development and scheduling 
 
 ---
 
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -121,17 +119,6 @@ A timetable scheduling project exploring application development and scheduling 
 
 </div>
 
----
-
-## 📈 My GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omveer-07&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
 
 ## 🎯 Currently
 
