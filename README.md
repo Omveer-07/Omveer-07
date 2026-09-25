@@ -49,7 +49,7 @@ I'm continuously exploring new technologies and looking for opportunities to tur
 
 ### 📈 Stock Price Prediction
 
-**Python · Streamlit · TensorFlow · Keras · LSTM**
+**Python · TensorFlow · Keras · LSTM**
 
 An experimental machine-learning project focused on **stock price/trend prediction** using an LSTM model.
 
